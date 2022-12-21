@@ -27,9 +27,15 @@
     align-items: center;
 }
 
+.input-field i {
+    padding: 0 10px;
+}
+
 input {
     border: none;
     height: 46px;
+    flex: 1;
+    margin: 2px;
 }
 
 .swiper {
